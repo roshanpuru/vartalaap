@@ -7,7 +7,7 @@ img: ramanujan.jpeg # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [Ramanujan, India]
 ---
-Ramanujan has given so much to the world and but India who is contaminted with fake ideals has forgotten this hero.
+Ramanujan : The forgotten hero.
 
 ## Something
 
