@@ -10,11 +10,11 @@ site-twitter: #if your site has a twitter account, enter it here
 author: Puru Chaudhary # add your name
 author-img: puru.png # add your photo
 about-author: ... future may give answers but past always had it ... # add description
-social-twitter: # add your Twitter handle
-social-facebook: # add your Facebook handle
-social-github: artemsheludko # add your Github handle
-social-linkedin: # add your Linkedin handle
-social-email: # add your Email address
+social-twitter: PuruChaudhary8 # add your Twitter handle
+social-facebook: roshan.puru # add your Facebook handle
+social-github: roshanpuru # add your Github handle
+social-linkedin: purushottam-chaudhary-72855319 # add your Linkedin handle
+social-email: roshan.purush@gmail.com # add your Email address
 
 # Disqus
 discus-identifier: puru # add your discus identifier
