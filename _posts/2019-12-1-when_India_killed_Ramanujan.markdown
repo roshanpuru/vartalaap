@@ -7,7 +7,7 @@ img: ramanujan.jpeg # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [Ramanujan, India]
 ---
-Ramanujan : Man who know and can express infinity.
+Ramanujan : Man who knew and can express infinity.
 
 > “An equation for me has no meaning, unless it expresses a thought of God.”
 > ― **Srinivasa Ramanujan**
@@ -64,7 +64,11 @@ Ono’s team was stunned to find the function could be used today.
 
 'No one was talking about black holes back in the 1920s when Ramanujan first came up with mock modular forms, and yet, his work may unlock secrets about them,' Ono says.
 
-His equations are widely used in study of BlackHoles, Quantum Mechanics and String Theiry
+His equations are widely used in study of BlackHoles, Quantum Mechanics and String Theory.
+
+
+
+We made to belive to that ideals are bollywood actor and actress where world still belive in scientists. Time has come where we idealize people who really deserves it. Not some morons from boollywood.
 
 
 
