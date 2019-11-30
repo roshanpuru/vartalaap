@@ -7,14 +7,7 @@ img: ramanujan.jpeg # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [Ramanujan, India]
 ---
-Ramanujan : The forgotten hero.
+<!--Ramanujan : Man who can express infinity.-->
 
-## Something
+> India chose to escape from the past where western world wants to know more about it. Leave mythological India, India don't want to recognize people from some decades back. One here is Ramanujan.
 
-
-
->phrases
-
-
-
-* List
