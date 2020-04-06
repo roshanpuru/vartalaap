@@ -1,6 +1,6 @@
 ---
 layout: post
-title: When India Killed Ramanujan
+title: Ramanujan
 date: 2019-12-1 13:32:20 +0300
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
 img: ramanujan.jpeg # Add image post (optional)
@@ -12,7 +12,7 @@ Ramanujan : Man who knew and can express infinity.
 > “An equation for me has no meaning, unless it expresses a thought of God.”
 > ― **Srinivasa Ramanujan**
 
-We had eminnent scientists in the past which we choose to overlook where same has been celebrated in the west. Our school textbooks don't have any mention where in west there are named equation for them. Thanks to Historians, India killed one of these scientist called Ramanujan. Whether it was complex from west intellectuals or Ramanujan being Brahmin, India chose to undermine his contribution to Maths and Physics.
+We had eminnent scientists in the past which we choose to overlook where same has been celebrated in the west. Our school textbooks don't have any mention where in west there are named equation for them. Thanks to Historians, India forgot one of these scientist called Ramanujan. Whether it was complex from west intellectuals or Ramanujan being Brahmin, India chose to undermine his contribution to Maths and Physics.
 
 > " ..... myself 25, Littlewood 30, Hilbert 80 and Ramanujan 100 ....."  ― Hardy, Great Mathematician
 >
